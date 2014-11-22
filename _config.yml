@@ -34,10 +34,10 @@ facebook:       'https://www.facebook.com/olakara'
 gplus:          'https://plus.google.com/u/0/+JakeMcGregor'
 
 # Google Analytics
-gahandler: 'UA-52149651-1'
+gahandler: ''
 
 # Disqus
-disqushandler: 'testingblogo'
+disqushandler: ''
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
